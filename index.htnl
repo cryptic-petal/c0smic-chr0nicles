@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cosmic Chronicles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Cosmic Chronicles</h1>
+
+    <p>Understanding the universe shouldn't require a PhD.</p>
+
+    <a href="news.html">Explore Stories</a>
+    <h2>What We Do</h2>
+
+<div class="cards">
+    <div>LEARN</div>
+    <div>READ</div>
+    <div>DISCOVER</div>
+</div>
+<p class="small">INTERCEPTED TRANSMISSION</p>
+
+<h2>Did scientists really find another Earth?</h2>
+
+<a href="#">Read Article</a>
+<h2>Why We're Different</h2>
+
+<p>Complicated science → Simple explanations</p>
+<p>Technical language → Everyday language</p>
+<p>Huge articles → 5-minute reads</p>
+<p>Information overload → Easy to understand</p>
+<footer>
+    Cosmic Chronicles • Exploring the universe, one story at a time.
+</footer>
+
+</body>
+</html>
+
